@@ -1,0 +1,133 @@
+pwd
+whoami
+who am i
+hostname
+uname -r
+uname -a
+last
+lastlogin
+user
+data
+cal
+cal 2023
+hostnamect1
+cat /etc/os-release
+cat /etc/redhat-release
+cat /etc/rockylinux-release
+tree
+rpm -q package
+rpm -qi package
+rpm -Rqi package
+yum  list install
+yum delete
+yum uptade -y
+yum remove package
+chmod u+rwx
+chmod g+rwx
+cat >cloud1
+cat cloud
+cat >>cloud1
+cat>/destination-dirctory/filename
+cat /destination-directory/filename
+cat>>/destination-directory/filename
+touch cloud7
+touch cloud2 cloud3 cloud4
+touch.cloud5
+mkdir directory-devops1
+mkdir .directory-devops2
+mkdir -p /dirctory name/directory/.directoryname
+ls
+ls -1
+ls -a
+ls -la
+ls -r
+ls -lra
+ls -o
+ll
+ll -a
+ll -r
+ll -o
+ll -ro
+mv cloud2 cloud9
+mv source-path destination-path
+cp cloud9 cloud6
+cp source filepath destination-path
+cp -r source directory-path destination-path
+cp -rvfp source-directory-path destination-path
+cp sourc-directory-path .
+cp -rvfp source-directory-path
+rm filename(start..endnumber)
+rm -f filename(startname..endname)
+rm filename
+rm filename filename...nthfilename
+rm source-path/filename
+rm -f filename
+rm -r directoryname
+rm -r directoeyname.....nthdirectoryname
+rm -r source-directory/directory-name
+cd ..
+cd directoryname
+cd directoryname/dirctory-name...nthdirectory-name
+cd ..
+cd ../../.. nth directory-name
+cd -
+  
+
+chmod o-rwx 
+chmod o-r
+chmod o-w
+chmod o-x
+
+init 0
+init 3
+init 5
+init 6
+
+reboot
+
+free -h
+free -m
+free -g
+free -k
+free -b
+
+lsblk
+fdisk -l
+du -h
+
+vi filename
+vim filename
+i
+I
+O
+A
+a
+w
+b
+n
+nw
+nb
+dd
+ndd
+nyy
+yy
+p
+hjkl
+u
+x
+X
+g
+G
+set nu
+set nonu
+:!
+:
+!command
+:w
+:wq
+:w
+:q!
+:q
+/charcter-name
+/word-name
+
